@@ -16,6 +16,7 @@
 		EC0649BF2AA6098900135B46 /* TaxAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC0649BE2AA6098900135B46 /* TaxAppTests.swift */; };
 		EC0649C92AA6098900135B46 /* TaxAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC0649C82AA6098900135B46 /* TaxAppUITests.swift */; };
 		EC0649CB2AA6098900135B46 /* TaxAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC0649CA2AA6098900135B46 /* TaxAppUITestsLaunchTests.swift */; };
+		EC0649DA2AA6183200135B46 /* TotalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC0649D92AA6183200135B46 /* TotalViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		EC0649C42AA6098900135B46 /* TaxAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TaxAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC0649C82AA6098900135B46 /* TaxAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaxAppUITests.swift; sourceTree = "<group>"; };
 		EC0649CA2AA6098900135B46 /* TaxAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaxAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		EC0649D92AA6183200135B46 /* TotalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TotalViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				EC0649A72AA6098600135B46 /* AppDelegate.swift */,
 				EC0649A92AA6098600135B46 /* SceneDelegate.swift */,
 				EC0649AB2AA6098600135B46 /* ViewController.swift */,
+				EC0649D92AA6183200135B46 /* TotalViewController.swift */,
 				EC0649AD2AA6098600135B46 /* Main.storyboard */,
 				EC0649B02AA6098800135B46 /* Assets.xcassets */,
 				EC0649B22AA6098800135B46 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				EC0649AC2AA6098600135B46 /* ViewController.swift in Sources */,
 				EC0649A82AA6098600135B46 /* AppDelegate.swift in Sources */,
 				EC0649AA2AA6098600135B46 /* SceneDelegate.swift in Sources */,
+				EC0649DA2AA6183200135B46 /* TotalViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
