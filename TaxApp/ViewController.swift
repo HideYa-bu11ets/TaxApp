@@ -106,7 +106,7 @@ class ViewController: UITableViewController {
         return numbers.count
     }
 
-    /*
+    
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: "resultIdentifier", for: indexPath)
         
@@ -115,6 +115,6 @@ class ViewController: UITableViewController {
         
         return cell
     }
-     */
+     
 }
 
